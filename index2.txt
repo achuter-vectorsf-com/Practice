@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello 1
-=======
-Hello 2
->>>>>>> refs/heads/commander
+Hello Thursday.
